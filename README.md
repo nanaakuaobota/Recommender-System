@@ -91,4 +91,4 @@ The goal is to improve recommendation quality, increase conversions, and persona
 This project demonstrates that predicting a user’s first add-to-cart category from their viewed categories is not only feasible but also highly accurate with Logistic Regression.  
 By deploying the model via Gradio on Hugging Face Spaces, businesses can integrate it into their platforms to deliver **real-time, personalized product recommendations**, improving customer engagement and conversion rates.
 
-👉 [Live Demo on Hugging Face](https://huggingface.co/spaces/your-username/your-space-name) *(replace with your link)*  
+👉 [Live Demo on Hugging Face](https://huggingface.co/spaces/your-username/your-space-name)  
